@@ -1,5 +1,6 @@
-<?php include 'header.php'; ?>
-
+<?php 
+$title = "Ex2";
+include 'header.php'; ?>
         <div class="row">
             <div class="col-sm-12">
                 <h1>Exercise 2</h1>

@@ -1,4 +1,6 @@
-<?php include 'header.php'; ?>
+<?php 
+$title = "Welcome";
+include 'header.php'; ?>
             <div class="col-sm-8">
                 <h1>Welcome Aboard</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab consequatur labore autem nam ad maxime vitae deleniti delectus vel! Quas vitae inventore cupiditate adipisci totam eveniet perspiciatis iste facere?</p>
