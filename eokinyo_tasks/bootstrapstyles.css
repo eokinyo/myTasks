@@ -1,0 +1,54 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(images/nice.jpg);
+    background-size: cover;
+    /*To repeat the background on either the x or y axes, we use
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    respectively.
+    */
+    /*
+    We can also have the background image in every element of the website, for example, at the footer, header, etc.
+    */
+}
+
+nav a, nav a:visited, nav a:active/*Add comments of what this does*/
+{
+    color: rgb(45, 43, 43);
+    text-decoration: none;
+}
+
+/*Hover = mouse is on an element*/
+nav a:hover /*Add comments of what this does*/
+{
+    color: orange;
+    text-decoration: underline;
+}
+
+/*To force the image on the website to fit to our desired size*/
+img
+{
+    width: 500px;
+    height: auto;
+}
+
+
+
+.btn
+{
+    background-color: rgb(114, 230, 230);
+    border-color: rgb(114, 230, 230);
+
+}
+
+.btn:hover
+{
+    background-color: rgb(87, 199, 201);
+    border-color: rgb(96, 231, 234);
+}
+
+.dropdown-menu
+{
+    background-color: beige;
+}
