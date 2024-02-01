@@ -48,7 +48,44 @@ img
     border-color: rgb(96, 231, 234);
 }
 
+
 .dropdown-menu
 {
     background-color: beige;
 }
+
+/*Adjusting the form layout*/
+body {
+    padding: 20px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+form input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+form input[type="submit"] {
+    width: 100%;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-center {
+    text-align: left;
+}
+
+
+/* Styling the grade-table */
+
+table, th, td {
+    border: 1px solid;
+  }

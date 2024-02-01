@@ -10,6 +10,12 @@
     </div>
     <div class="col-md-3">
         <p>&copy; 2024 All rights reserved.</p>
+        <?php
+        $open_page = basename($_SERVER['PHP_SELF']);
+        $timeLastModified = filemtime($open_page);
+        $dateModified = date('F j, Y H:i:s', $timeLastModified);
+        echo "<p>Last modified: $dateModified</p>";
+        ?>
     </div>
            
 
