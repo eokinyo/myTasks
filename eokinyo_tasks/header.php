@@ -23,25 +23,25 @@
                         <a class="nav-link active" aria-current="page" href="welcome.php">Home</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex1.php">Ex1</a>
+                        <a class="nav-link" href="ex1.php">Exercise 1</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex2.php">Ex2</a>
+                        <a class="nav-link" href="ex2.php">Exercise 2</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex3.php">Ex3</a>
+                        <a class="nav-link" href="ex3.php">Exercise 3</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex4.php">Ex4</a>
+                        <a class="nav-link" href="ex4.php">Exercise 4</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex5.php">Ex5</a>
+                        <a class="nav-link" href="ex5.php">Exercise 5</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex6.php">Ex6</a>
+                        <a class="nav-link" href="ex6.php">Exercise 6</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex7.php">Ex7</a>
+                        <a class="nav-link" href="ex7.php">Exercise 7</a>
                       </li>
                     <form class="d-flex" role="search">
                       <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
