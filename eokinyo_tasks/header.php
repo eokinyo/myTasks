@@ -38,7 +38,7 @@
                         <a class="nav-link" href="ex5.php">Exercise 5</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex6.php">Exercise 6</a>
+                        <a class="nav-link" href="../crud/index.php">Exercise 6</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="ex7.php">Exercise 7</a>
