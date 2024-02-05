@@ -1,8 +1,8 @@
 <?php
 $servername = "web-dev-env-main-db-1";
 $username = "app1";
-$password = "@!noSalmi1993"
-$dbname = "App1"
+$password = "@!noSalmi1993";
+$dbname = "App1";
 
 //Create a database connection
 

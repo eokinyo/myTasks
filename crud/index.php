@@ -1,5 +1,5 @@
 <h2>Input Your Information Below:</h2>
-<form name="form1" method="post" action="pocess.php">
+<form name="form1" method="post" action="process.php">
     <div class="form-group">
         <div class="row">
             <div class="col">

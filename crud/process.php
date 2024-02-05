@@ -16,7 +16,7 @@ include 'db.php';
 $sql = "insert into studentsinfo(first_name, last_name, city, groupId)
         values('$fname', '$lname', '$city', '$groupid')";
 
-if ($conn->($sql)===TRUE){
+if ($conn->query($sql)===TRUE){
     echo "Your data was recorded";
 }
 else {
@@ -24,6 +24,6 @@ else {
 }
 
 //Closs the 
-$conn->close;
+$conn->close();
 }
 ?>
