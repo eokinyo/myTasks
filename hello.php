@@ -14,7 +14,7 @@ echo "<h1>Hello World</h1>";
 /*We can also 
 have multi-line 
 comments*/
-// In php, key words are not case sensitive. However, variable names are case sesnsitive. something here
+// In php, key words are not case sensitive..... However, variable names are case sesnsitive. something here
 ?>   
 </body>
 </html>
