@@ -41,7 +41,7 @@
                         <a class="nav-link" href="../crud/index.php">Exercise 6</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="ex7.php">Exercise 7</a>
+                        <a class="nav-link" href="../crud/read.php">Exercise 7</a>
                       </li>
                     <form class="d-flex" role="search">
                       <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
