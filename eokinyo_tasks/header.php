@@ -35,7 +35,7 @@
                         <a class="nav-link" href="ex4.php">Exercise 4</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="https://github.com/eokinyo/Team_21/blob/02ca7c89ea3d8499eee5e31021b252072a276268/README.md">Exercise 5</a>
+                        <a class="nav-link" href="https://github.com/eokinyo/Team_21/blob/02ca7c89ea3d8499eee5e31021b252072a276268/README.md" target="_blank">Exercise 5</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="../crud/index.php">Exercise 6</a>
